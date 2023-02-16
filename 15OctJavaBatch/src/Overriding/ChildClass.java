@@ -11,7 +11,11 @@ public class ChildClass extends ParentClass
 		System.out.println(a+b);
 	}
 
-	
+//	public static void add()
+	{
+		int a=5;
+		System.out.println(a);
+	}
 	
 	
 	public static void main(String[]args)
@@ -21,6 +25,8 @@ public class ChildClass extends ParentClass
 		
 //		ParentClass obj1=new ParentClass();
 //		obj1.addition();;
+		
+		add();
 	}
 
 }

@@ -1,3 +1,4 @@
+
 package StarProgram;
 
 public class SquareOfStarProgram 

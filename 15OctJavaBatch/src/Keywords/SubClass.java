@@ -2,10 +2,10 @@ package Keywords;
 
 public class SubClass extends SuperClass
 {
-	SubClass()
+	public  SubClass()
 	{
 		super();
-		//System.out.println("sub class cons");
+//		System.out.println("sub class cons");
 	}
 	
 	

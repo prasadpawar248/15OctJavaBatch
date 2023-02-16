@@ -4,7 +4,7 @@ public class ReverseNumber
 {
 	public static void main(String[] args)
 	{
-		int number=1456;
+		int number=145;
 		int rev=0;
 		
 		while(number>0)
@@ -16,3 +16,6 @@ public class ReverseNumber
 	}
 
 }
+
+
+//   1/10=0  & 1%10=1

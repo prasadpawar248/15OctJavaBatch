@@ -13,9 +13,9 @@ public class FinalKeyword {
 	
 	public static void main(String[]args)
 	{
-	  int a=20;
+//	  a=20;    we can not change the value of a variable.
 	  
-	  System.out.println(FinalKeyword.a);
+	  System.out.println(a);
 		
 	}
 
